@@ -738,3 +738,5 @@ By default, protobuf.js integrates into any browserify build-process without req
 * If you have any special requirements, there is [the bundler](https://github.com/dcodeIO/protobuf.js/blob/master/scripts/bundle.js) for reference.
 
 **License:** [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+
+123
